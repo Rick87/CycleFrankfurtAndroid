@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="recording_title">Cycle Philly</string>
+	<string name="recording_title">Cycle Frankfurt</string>
 	<string name="icon_sun">&#xe601;</string>
 	<string name="app_name">Cycle Philly</string>
 	<string name="postUrl">http://www.cyclephilly.org/post/</string>
@@ -9,7 +9,7 @@
 	<string name="startNewTrip">Start Trip!</string>
     <string name="weatherAlert"></string>
     <string name="currentTemperature"> -- </string>
-    <string name="cycleReferenceTripsStarted">https://cyclephilly.firebaseio.com/trips-started/2014/</string>
+    <string name="cycleReferenceTripsStarted">https://dazzling-fire-3233.firebaseio.com/trips-started/2014/</string>
     <!--<string name="tripsStats"> trips today |  trips total</string>-->
     <string name="tripsStats"></string>
 	<string name="pauseButtonLabel">Pause</string>

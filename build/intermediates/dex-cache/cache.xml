@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\classes-c27519b41b2054ecf912f988cfdd010ff7045f19.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\classes-b4273a48cb36ca54a15a88cbbc37520e6472cd7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\support-annotations-22.1.1-ed7672721b9fc3ed738ec534f9367171089c2d84.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\.gradle\caches\modules-2\files-2.1\com.firebase\geofire\1.1.0\d746bd9d89641dc841d2299c59d6e9a9eb8e98e9\geofire-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d746bd9d89641dc841d2299c59d6e9a9eb8e98e9">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\geofire-1.1.0-09c66331db0937fc14ab33a64a3dcb6aecc00399.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\firebase-client-jvm-2.5.2-393b342fe3e33e27c50a5dbea32ef126393b4328.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\classes-03e2ecc7ac8bbb32c526f5dd071a2f4b9fa23fb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\jackson-databind-2.2.2-199ab3f0f793f2fe972cb57cc6a3d73f82b608e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\jackson-core-2.2.2-e2326134d07b3daa362e432ee95ee137b437f010.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\internal_impl-22.1.1-251f5b099687108ab7bb938475b5ec86a01ef8ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.11\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\classes-821b0e70b29b535d60c225c6fa9b41afb9eb234d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\classes-43e9a9f0e0ada2773cf95df99e74a81f0f02d79b.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\jackson-annotations-2.2.2-06ec289b06d5fb2de316924fcaa3f5251cd861b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.0\aa504de950abc4b000ef6b6cd127ff355d4c7cb8\firebase-client-android-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa504de950abc4b000ef6b6cd127ff355d4c7cb8">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\firebase-client-android-2.3.0-96435c259972292269b4009ba9578b4ec8ccc41a.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeshiko\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\nadeshiko\Documents\GitHub\CycleFrankfurtAndroid\CyclePhillyAndroid\build\intermediates\pre-dexed\mainActivity\debug\tubesock-0.0.12-629283238e3c8dbbe9a7b37267ade88e343eb57b.jar" />
+    </item>
+
+</items>

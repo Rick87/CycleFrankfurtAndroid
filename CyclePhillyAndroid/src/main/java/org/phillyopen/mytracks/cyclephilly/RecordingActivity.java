@@ -234,7 +234,7 @@ public class RecordingActivity extends FragmentActivity implements ConnectionCal
 
                     /*SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd", Locale.US);
 
-                    Firebase tripsRef = new Firebase("https://cyclephilly.firebaseio.com/trips-completed/"+
+                    Firebase tripsRef = new Firebase("https://dazzling-fire-3233.firebaseio.com/trips-completed/"+
                             sdf.format(new Date(System.currentTimeMillis())));*/
 
                     /*Map<String, Object> toSet = new HashMap<String, Object>();
@@ -363,7 +363,7 @@ public class RecordingActivity extends FragmentActivity implements ConnectionCal
 //        String fbId;
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd", Locale.US);
 
-        Firebase tripsRef = new Firebase("https://cyclephilly.firebaseio.com/trips-started/"+
+        Firebase tripsRef = new Firebase("https://dazzling-fire-3233.firebaseio.com/trips-started/"+
                 sdf.format(new Date(System.currentTimeMillis())));
 
         Firebase newPushRef = tripsRef.push();
