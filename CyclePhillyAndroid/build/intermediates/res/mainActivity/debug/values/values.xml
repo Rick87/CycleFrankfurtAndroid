@@ -289,7 +289,7 @@
     <string name="accept">Accept</string>
     <!-- From: file:/C:/Users/nadeshiko/Documents/GitHub/CycleFrankfurtAndroid/CyclePhillyAndroid/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">Cycle Philly</string>
+    <string name="app_name">Cycle Frankfurt</string>
     <string name="cloudy"></string>
     <!-- From: file:/C:/Users/nadeshiko/Documents/GitHub/CycleFrankfurtAndroid/CyclePhillyAndroid/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/common_strings.xml -->
     <eat-comment/>
@@ -345,7 +345,7 @@
     <string name="postUrl">http://www.cyclephilly.org/post/</string>
     <string name="previous_trips">Saved Trips:</string>
     <string name="promptPurpose">Select the main purpose of this trip</string>
-    <string name="recording_title">Cycle Philly</string>
+    <string name="recording_title">Cycle Frankfurt</string>
     <string name="ride_indego_nearest">Nearby Stations</string>
     <string name="startNewTrip">Start Trip!</string>
     <!-- From: file:/C:/Users/nadeshiko/Documents/GitHub/CycleFrankfurtAndroid/CyclePhillyAndroid/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/admob_strings.xml -->
@@ -358,7 +358,7 @@
     <string name="tab_map">Map</string>
     <string name="tab_my_trips">My Trips</string>
     <string name="tripsStats"/>
-    <string name="uploadProgressMessage">Sending your trip.\n\nThanks for using Cycle Philly!</string>
+    <string name="uploadProgressMessage">Sending your trip.\n\nThanks for using Cycle Frankfurt!</string>
     <string name="uploadProgressTitle">Sending…</string>
     <!-- From: file:/C:/Users/nadeshiko/Documents/GitHub/CycleFrankfurtAndroid/CyclePhillyAndroid/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/wallet_strings.xml -->
     <eat-comment/>

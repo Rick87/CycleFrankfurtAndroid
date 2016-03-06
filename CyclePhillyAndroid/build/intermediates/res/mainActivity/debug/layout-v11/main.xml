@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/dashboard_bar"
-        android:title="Cycle Philly">
+        android:title="Cycle Frankfurt">
 
         <TextView
             android:layout_width="40dp"

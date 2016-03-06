@@ -96,7 +96,7 @@ public class MainInput extends ActionBarActivity {
     private final static int MENU_LEGAL_INFO = 3;
     public final static int PREF_ANONID = 13;
     final String DEGREE  = "\u00b0";
-    public final static String FIREBASE_REF = "https://cyclephilly.firebaseio.com";
+    public final static String FIREBASE_REF = "https://dazzling-fire-3233.firebaseio.com";
     Firebase indegoRef;
     Firebase indegoGeofireRef;
 
@@ -159,9 +159,9 @@ public class MainInput extends ActionBarActivity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
         Firebase.setAndroidContext(this);
-
-        final Firebase ref = new Firebase("https://cyclephilly.firebaseio.com");
-        final Firebase phlref = new Firebase("https://phl.firebaseio.com");
+       // https://dazzling-fire-3233.firebaseio.com
+        final Firebase ref = new Firebase("https://dazzling-fire-3233.firebaseio.com");
+        final Firebase phlref = new Firebase("https://dazzling-fire-3233.firebaseio.com");
         // Let's handle some launcher lifecycle issues:
 		// If we're recording or saving right now, jump to the existing activity.
 		// (This handles user who hit BACK button while recording)
@@ -318,7 +318,7 @@ public class MainInput extends ActionBarActivity {
         nearbyStations = (RecyclerView) findViewById(R.id.nearbyStationList);
         nearbyStations.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
         //Listener for Indego Changes
-        indegoRef = new Firebase("https://phl.firebaseio.com/indego/kiosks");
+        indegoRef = new Firebase("https://dazzling-fire-3233.firebaseio.com/indego/kiosks");
         indegoRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -336,7 +336,7 @@ public class MainInput extends ActionBarActivity {
 
 // Register the listener with the Location Manager to receive location updates
 
-        indegoGeofireRef = new Firebase("https://phl.firebaseio.com/indego/_geofire");
+        indegoGeofireRef = new Firebase("https://dazzling-fire-3233.firebaseio.com/indego/_geofire");
         GeoFire geoFire = new GeoFire(indegoGeofireRef);
         locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0, 0, locationListener);
@@ -403,7 +403,7 @@ public class MainInput extends ActionBarActivity {
         });
 
         toolbar = (Toolbar) findViewById(R.id.dashboard_bar);
-        toolbar.setTitle("Cycle Philly");
+        toolbar.setTitle("Cycle Frankfurt");
 
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayShowTitleEnabled(true);
@@ -437,7 +437,7 @@ public class MainInput extends ActionBarActivity {
 
     private void buildAlertMessageNoGps() {
         final AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setMessage("Your phone's GPS is disabled. Cycle Philly needs GPS to determine your location.\n\nGo to System Settings now to enable GPS?")
+        builder.setMessage("Your phone's GPS is disabled. Cycle Frankfurt needs GPS to determine your location.\n\nGo to System Settings now to enable GPS?")
                .setCancelable(false)
                .setPositiveButton("GPS Settings...", new DialogInterface.OnClickListener() {
                    public void onClick(final DialogInterface dialog, final int id) {
@@ -456,8 +456,8 @@ public class MainInput extends ActionBarActivity {
 
     private void showWelcomeDialog() {
         final AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setMessage("Please update your personal details so we can learn a bit about you.\n\nThen, try to use Cycle Philly every time you ride. Your trip routes will be sent to regional transportation planners to improve biking in the Philadelphia area!\n\nThanks,\nThe Cycle Philly team")
-               .setCancelable(false).setTitle("Welcome to Cycle Philly!")
+        builder.setMessage("Please update your personal details so we can learn a bit about you.\n\nThen, try to use Cycle Frankfurt every time you ride. Your trip routes will be sent to regional transportation planners to improve biking in the Philadelphia area!\n\nThanks,\nThe Cycle Frankfurt team")
+               .setCancelable(false).setTitle("Welcome to Cycle Frankfurt!")
                .setPositiveButton("OK", new DialogInterface.OnClickListener() {
                    public void onClick(final DialogInterface dialog, final int id) {
                        startActivity(new Intent(MainInput.this, UserInfoActivity.class));
@@ -578,7 +578,7 @@ public class MainInput extends ActionBarActivity {
         	Intent myIntent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
                     "mailto","cyclephilly@gmail.com", null));
 
-            myIntent.putExtra(Intent.EXTRA_SUBJECT, "Cycle Philly Android App");
+            myIntent.putExtra(Intent.EXTRA_SUBJECT, "Cycle Frankfurt Android App");
             startActivity(Intent.createChooser(myIntent, "Send email..."));
             return true;
         case MENU_MAP:

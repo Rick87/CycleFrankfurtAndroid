@@ -2,7 +2,7 @@
 <resources>
 	<string name="recording_title">Cycle Frankfurt</string>
 	<string name="icon_sun">&#xe601;</string>
-	<string name="app_name">Cycle Philly</string>
+	<string name="app_name">Cycle Frankfurt</string>
 	<string name="postUrl">http://www.cyclephilly.org/post/</string>
 	<string name="icon">Bicycle Parking</string>
 	<string name="previous_trips">Saved Trips:</string>
@@ -18,7 +18,7 @@
 	<string name="enterTripInfo">And add any comments about your trip here</string>
 	<string name="promptPurpose">Select the main purpose of this trip</string>
 	<string name="uploadProgressTitle">Sending…</string>
-	<string name="uploadProgressMessage">Sending your trip.\n\nThanks for using Cycle Philly!</string>
+	<string name="uploadProgressMessage">Sending your trip.\n\nThanks for using Cycle Frankfurt!</string>
 
 	<string name="cloudy">&#xe61d;</string>
 	<string-array name="ageArray">
